@@ -168,7 +168,7 @@ async function connectToWA() {
 > https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E
 *ʏᴏᴜʀ ᴘʀᴇғɪx : ${config.PREFIX}*
 *Dont forget to give star to repo ⬇️*🌟
-> https://github.com/caseyweb/CASEYRHODES-XMD
+> https://github.com/boniphacebrave/LEGENDS-MD
 
 > *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴀsᴇʏʀʜᴏᴅᴇs ᴛᴇᴄʜ*`,
             contextInfo: {
